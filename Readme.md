@@ -1,5 +1,5 @@
-# 🚀 Flutter Web App with Device Preview
+# 🚀 Flutter App with Device Preview
 
-This is a Flutter Web application featuring **Device Preview**, deployed on Firebase Hosting. The app allows users to simulate different devices and test responsiveness directly in their browser.
+This is a Flutter application deployed on Firebase Hosting with **Device Preview** enabled. Users can simulate various devices, screen sizes, and orientations directly in their browser to test how the app behaves on different devices.
 
 - 🛠️ Code provided soon...
