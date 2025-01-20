@@ -4,6 +4,11 @@ This is a simple BMI (Body Mass Index) calculator app built using Flutter. The a
 
 The app is deployed on Firebase Hosting, and Device Preview is enabled to simulate various devices, screen sizes, and orientations directly in your browser to test how the app behaves on different devices.
 
+## Firebase Hosting Deployment
+
+This Flutter app is hosted on Firebase Hosting, and you can access the live version through the link below:
+[Live App URL](https://bmiwebapp-18869.web.app/)
+
 ## Features
 
 - Input for weight and height.
@@ -43,12 +48,6 @@ Ensure you have the following installed:
    flutter run
    ```
 
-## Firebase Hosting Deployment
-
-This Flutter app is hosted on Firebase Hosting, and you can access the live version through the link below:
-
-[Live App URL](https://your-app-url.web.app) *(Replace with your own live app URL)*
-
 ## Device Preview
 
 Device Preview is enabled to allow testing on various devices directly in the browser. You can simulate different screen sizes and orientations by opening the app on your browser.
@@ -59,9 +58,6 @@ Device Preview is enabled to allow testing on various devices directly in the br
 2. Tap the 'Calculate' button to get your BMI.
 3. The app will display your BMI and corresponding category.
 
-## Demo
-
-![BMI Calculator Demo](images/bmi_calculator_demo.gif) *(Replace with your own demo if applicable)*
 
 ## Contributing
 
@@ -70,3 +66,4 @@ Device Preview is enabled to allow testing on various devices directly in the br
 3. Commit your changes (`git commit -am 'Add new feature'`).
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new Pull Request.
+
