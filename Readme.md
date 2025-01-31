@@ -26,28 +26,6 @@ Ensure you have the following installed:
 - An IDE (e.g., Visual Studio Code or Android Studio)
 - Emulator or a physical device for testing
 
-### Steps
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/knilesh2212/bmi_calculator.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd bmi_calculator
-   ```
-
-3. Install dependencies:
-   ```bash
-   flutter pub get
-   ```
-
-4. Run the app locally:
-   ```bash
-   flutter run
-   ```
-
 ## Device Preview
 
 Device Preview is enabled to allow testing on various devices directly in the browser. You can simulate different screen sizes and orientations by opening the app on your browser.
